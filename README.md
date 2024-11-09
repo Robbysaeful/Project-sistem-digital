@@ -1,5 +1,5 @@
 # Project-sistem-digital
-Robby saeful alamin - 2310614071
+UTS sistwm digital Robby saeful alamin - 2310614071
 
 link wokwi uts 1 : (https://wokwi.com/projects/412712841425168385)
 
